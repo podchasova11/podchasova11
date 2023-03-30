@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![image](https://user-images.githubusercontent.com/16668925/222896156-d7528d5e-e632-44eb-8e68-1c39e4d2de84.png)](https://www.facebook.com/ludmila.podchasova) 
 [![image](https://user-images.githubusercontent.com/16668925/222896183-4972ab06-9868-487e-8769-a13b4e9eda6b.png)](https://www.linkedin.com/in/mila-podchasova-b9b03511b/)
 [![image](https://user-images.githubusercontent.com/16668925/222896211-f86a1839-5ef9-412c-a604-b24ca38e057a.png)](https://github.com/podchasova11)
-[![image](https://user-images.githubusercontent.com/16668925/222896262-e22f8c51-788d-4eff-b989-716d377df498.png)]
+[![image](https://user-images.githubusercontent.com/16668925/222896262-e22f8c51-788d-4eff-b989-716d377df498.png)](https://t.me/mila_podchasova)
 ![image](https://user-images.githubusercontent.com/16668925/222896357-59fd1df3-e28a-42e9-abf5-036fd10a35d1.png)
 
 ## Tools
