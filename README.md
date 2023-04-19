@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 📚 About Me:
 - 🔭 I’m currently working as a QA Trainee ITX.
-- 🌱 I’m currently learning Automation Testing among other things. Also focus on Java E2E tests.
+- 🌱 I’m currently learning Automation Testing among other things. Also focus on Java E2E tests. Graduated QA automation (www.gb.ru)
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Cypress.
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing.
 - 💬 Ask me about QA and Automation Testing.
