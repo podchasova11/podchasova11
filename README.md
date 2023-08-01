@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/SOAPUI-090909?style=for-the-badge&logo=soapui&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=8cc4d7)
+
 
 
 
