@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Pytest.
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing.
 - 💬 Ask me about QA and Automation Testing.
-- ⚡ Visit my website: http://mylifeandqa.ru/
+- ⚡ Visit my website: http://mylifeandqa.ru
 
 
 ## Contact Me: 
