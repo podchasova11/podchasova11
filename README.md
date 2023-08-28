@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 📚 About Me:
 - 🔭 Self learning, Independent, Proactive and Motivated QA. I’m currently working as a QA ITX.
-- 🌱 I’m currently learning Automation Testing among other things. Also focus on Smoke, Regression auto-tests. Graduated QA automation (www.gb.ru)
+- 🌱 I’m currently learning Automation Testing among other things. Also focus on Smoke, Regression auto-tests. Graduated QA automation 
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Pytest.
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing.
 - 💬 Ask me about QA and Automation Testing.
