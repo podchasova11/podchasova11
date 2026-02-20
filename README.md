@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 📚 About Me:
-- 🔭 Self learning. Independent. Proactive and motivated QA. I’m currently working as a QA engineer | Python automation.
+- 🔭 Self learning. Independent. Proactive and motivated QA. I’m currently working as a QA engineer.
 - 🌱 I’m currently learning Automation Testing among other things. Also focus on Python automation | CI/CD pipelines. Graduated QA automation.
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Pytest and Appium.
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing.
