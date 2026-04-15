@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 Proactive and motivated QA, self learning, independent. I’m currently working as a QA engineer.
 - 🌱 I’m currently learning Automation Testing among other things. Graduated QA automation.
 - Also focus on Python automation | CI/CD pipelines.
-- 👯 I’m looking to collaborate on Open Source tools such as Selenium, Pytest and Appium.
+- 👯 I’m looking to collaborate on Open Source tools such as Selenium, Pytest and Playwright.
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing.
 - 💬 Ask me about QA and Automation Testing.
   
