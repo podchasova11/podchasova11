@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Automation Testing among other things. Graduated QA automation.
 - Also focus on AI/Playwright/Python automation | CI/CD pipelines.
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Pytest and Playwright.
-- 🤔 I’m looking forward to helping people with any problem with Automation Testing.
+- 🤔 I’m looking forward to helping people with any problem with Automation Testing | CI/CD pipelines.
 - 💬 Ask me about QA and Automation Testing.
   
 
